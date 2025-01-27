@@ -1,5 +1,5 @@
 {
-  "name": "fullcallendar-core",
+  "name": "fullcalendar-core",
   "version": "1.0.0",
   "description": "FullCalendar core package for rendering a calendar",
   "scripts": {
