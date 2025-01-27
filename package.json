@@ -1,6 +1,7 @@
 {
   "name": "fullcalendar-core",
-  "version": "1.0.0",
+  "version": "6.1.15",
+  "title": "FullCalendar Core",
   "description": "FullCalendar core package for rendering a calendar",
   "scripts": {
     "clone": "git clone https://github.com/attapornamo/fullcalendar-core.git"
