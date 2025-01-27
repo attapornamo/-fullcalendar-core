@@ -1,0 +1,12 @@
+{
+  "name": "fullcallendar-core",
+  "version": "1.0.0",
+  "description": "FullCalendar core package for rendering a calendar",
+  "scripts": {
+    "clone": "git clone https://github.com/attapornamo/fullcalendar-core.git",
+    "degit": "npx degit attapornamo/fullcalendar-core#master core"
+  },
+  "keywords": ["github", "file-copy", "automation"],
+  "author": "Art",
+  "license": "MIT"
+}
